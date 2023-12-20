@@ -28,7 +28,7 @@ Run the Html Program to see the results
 book.css :
 ```
 body {
-  background-image: url("kp.jpeg.jpg");
+  background-image: url("background.png");
   background-position : center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -104,7 +104,7 @@ font-size: 50px;
 
 <div class="edit">
   Third Edition
-  <img src= "author.jpg">
+  <img src= "Author.jpg">
   <hr>
   
 </div>
