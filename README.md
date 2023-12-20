@@ -1,29 +1,30 @@
-Ex-06-Book-Cover-Design
+# Ex-06-Book-Cover-Design
+```
 NAME : GUTTHA KEERTHANA
 
 REFERENCE NUMBER : 23012783
 
 DEPARTMENT : AIML
-
-AIM:
+```
+# AIM:
 To create a book cover design using Html and Css code's
 
-Step1:
+# Step1:
 Select an image from online and make it as background image
 
-Step2:
+# Step2:
 Using vs code create a html and css files
 
-Step3:
+# Step3:
 Try some designs and some font over the image
 
-Step4:
+# Step4:
 Give the author name and photo down below the book cover
 
-Step5:
+# Step5:
 Run the Html Program to see the results
 
-PROGRAM :
+# PROGRAM :
 book.css :
 ```
 body {
@@ -116,27 +117,8 @@ font-size: 50px;
 </body>
 </html>
 ```
-OUTPUT :
+# OUTPUT :
 WhatsApp Image 2023-12-15 at 23 09 34_9cbc2a5d
 
-RESULT :
+# RESULT :
 The book cover design has been successfully created using HTML and CSS.
-
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 140 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Footer
