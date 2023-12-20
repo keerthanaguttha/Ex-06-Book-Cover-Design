@@ -1,11 +1,11 @@
 # Ex-06-Book-Cover-Design
-```
+
 NAME : GUTTHA KEERTHANA
 
 REFERENCE NUMBER : 23012783
 
 DEPARTMENT : AIML
-```
+
 # AIM:
 To create a book cover design using Html and Css code's
 
