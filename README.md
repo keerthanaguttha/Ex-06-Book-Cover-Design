@@ -118,7 +118,8 @@ font-size: 50px;
 </html>
 ```
 # OUTPUT :
-WhatsApp Image 2023-12-15 at 23 09 34_9cbc2a5d
+![image](https://github.com/keerthanaguttha/Ex-06-Book-Cover-Design/assets/145742927/f6c0a37e-fd1e-4f75-b778-27c367ea6292)
+
 
 # RESULT :
 The book cover design has been successfully created using HTML and CSS.
